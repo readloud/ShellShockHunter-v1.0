@@ -10,6 +10,9 @@
 <a href="https://github.com/MrCl0wnLab/ShellShockHunter/">
   <img src="assets/prints/banner.png" width="700" alt="Banner ShellShockHunter v1.0" />
 </a>
+</p>
+
+<p align="center">
 <img alt="GPL License" src="https://img.shields.io/github/license/MrCl0wnLab/ShellShockHunter?color=blue">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MrCl0wnLab/ShellShockHunter">
 <img alt="Python 3.8" src="https://img.shields.io/badge/python-3.8-yellow.svg">
